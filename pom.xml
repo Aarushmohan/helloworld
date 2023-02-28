@@ -33,14 +33,14 @@
 <distributionManagement>
 	<repository>
 		<id>nexus</id>
-		<name>hospital-app-release</name>
-		<url>http://10.12.124.82:8081/repository/hospital-app-release/</url>
+		<name>hello-world-release</name>
+		<url>http://10.12.124.82:8081/repository/hello-world-release/</url>
 	</repository>
  
 	<snapshotRepository>
 		<id>nexus</id>
-		<name>hospital-app-snapshots</name>
-		<url>http://10.12.124.82:8081/repository/hospital-app-snapshots/</url>
+		<name>hello-world-snapshots</name>
+		<url>http://10.12.124.82:8081/repository/hello-world-snapshots/</url>
 	</snapshotRepository>
 
 </distributionManagement>
